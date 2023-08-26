@@ -1,1 +1,2 @@
-# Importe-um-reposit-rio.A
+# Importe-um-reposit-rio.AD
+DIARIO DE REPOSITORIO
